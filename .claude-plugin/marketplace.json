@@ -1,0 +1,8 @@
+{
+  "name": "edumick-marketplace-publico",
+  "owner": { "name": "Edu_Santos", "email": "161904518+Edumick@users.noreply.github.com" },
+  "plugins": [
+    { "name": "spec-driven-development", "source": "./plugins/spec-driven-development", "description": "Fluxo spec-driven para software: escrever PRD e TRD" },
+    { "name": "uso-geral",               "source": "./plugins/uso-geral",               "description": "Brainstorm e maturação de ideias antes de especificar ou implementar" }
+  ]
+}
